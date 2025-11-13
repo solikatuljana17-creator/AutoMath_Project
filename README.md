@@ -1,6 +1,6 @@
 # AutoMath_Project
     print("Kalkulator Sederhana")
-    print("Operasi: + (tambah), - (kurang), * (kali), / (bagi)")
+    print("Operasi:+(tambah),-(kurang),*(kali),/(bagi)")
     
     try:
         num1 = float(input("Masukkan angka pertama: "))
